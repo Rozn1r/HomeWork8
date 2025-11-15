@@ -99,7 +99,7 @@ class Main {
         }
         System.out.println();
 
-        // Преобразование нечетных чисел в четные
+
         for (int i = 0; i < intArray.length; i++) {
             if (intArray[i] % 2 != 0) {
                 intArray[i] += 1;
